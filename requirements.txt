@@ -1,0 +1,22 @@
+Jupyter~=1.0.0
+opencv-contrib-python~=4.5.5.62
+mediapipe~=0.8.9.1
+requests~=2.27.1
+pandas~=1.4.1
+numpy~=1.22.3
+
+# The self-developed Framework
+git+https://github.com/M-Lampert/ML-Framework.git
+
+# For linting
+flake8
+
+# For formatting
+autoflake
+isort
+black
+black[jupyter]
+
+# For the Server
+sanic==21.12.1
+sanic-routing==0.7.2

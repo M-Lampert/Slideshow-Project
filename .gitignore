@@ -1,0 +1,11 @@
+.idea
+.vscode
+__pycache__
+
+# Was created by ELAN during saving. Don't know what it's for...
+*.pfsx
+
+# The directory where I safe all my videos
+/data/self
+
+*.mp4
